@@ -1,0 +1,21 @@
+body {
+  background-color:  #8CE38C;
+}
+h1 {
+  color: black;
+  font-family: Tahoma;
+  font-size: 50px;
+}
+p {
+  color: black;
+  font-family: Tahoma;
+  font-size: 22px;
+}
+img {
+  max-width: 50%;
+  border-radius: 100px;
+}
+ figure{
+  font-family: Tahoma;
+  font-size: 15px;
+}
