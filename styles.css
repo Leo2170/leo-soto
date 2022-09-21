@@ -19,3 +19,21 @@ img {
   font-family: Tahoma;
   font-size: 15px;
 }
+nav ul{
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  display: inline-block;
+  list-style: none;
+  padding-left: 0;
+}
+nav ul li{
+
+  
+}
+nav ul li a{
+  color: white;
+  text-decoration: none;
+  padding: 8px;
+  display: block;
+}
