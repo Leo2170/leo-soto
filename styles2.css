@@ -30,9 +30,19 @@ img {
 }
 figure.main-image {
 
-  background: : PaleVioletRed;
-  border-color: MediumVioletRed;
-  color: #ffffff;
+ background: : #8CE38C;
+  border: 2px;
+  border-width: thin;
+  border-bottom: 3px solid black;
+  border-left: 3px solid black;
+  border-right: 3px solid black;
+  border-top: 3px solid black;
+  margin-right: 2px;
+  margin-bottom: 32;
+  margin-top: auto;
+
+  color: black;
+
 
 
 }
