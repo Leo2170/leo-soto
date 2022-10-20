@@ -1,5 +1,5 @@
 body {
-  background-color:  #8CE38C;
+  background-color:  #fd1b1b;
 }
 h1#site-title {
   color: black;
@@ -58,7 +58,7 @@ nav ul li {
 
 }
 nav ul li a {
-  color: #035562;
+  color: #f6f6f7;
   text-decoration: none;
   padding: 12px;
   display: block;
